@@ -26,6 +26,11 @@ body{
     color: #eee;
 }
 
+.calculadora-geral > button:hover {
+    background-color: #eee;
+    color: #111;
+}
+
 .calculadora-geral > .operator {
     background: #41b88375;
 }
